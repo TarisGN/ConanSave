@@ -1,0 +1,1616 @@
+﻿[2018.06.29-16.12.41:487][  1]Log file open, 06/29/18 17:12:41
+[2018.06.29-16.12.41:487][  1]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.12.41:735][  1]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.12.45:320][ 40]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.12.50:318][142]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.12.52:092][195]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.12.55:326][292]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.00:335][442]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.02:608][510]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.13.05:347][592]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.10:360][742]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.12:871][817]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.13.15:364][892]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.20:373][ 42]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.23:139][125]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.13.25:374][192]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.30:376][342]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.33:674][441]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.13.35:142][485]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.40:146][635]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.44:180][756]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.13.45:150][785]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.50:170][936]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.13.54:711][ 72]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.13.55:175][ 86]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.00:184][236]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.05:187][386]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.05:222][387]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.14.10:196][536]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.15:202][682]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.15:738][698]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.14.20:206][832]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.25:216][982]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.26:252][ 13]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.14.30:229][132]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.35:224][282]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.36:760][328]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.14.40:236][432]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.45:240][582]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.47:275][643]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.14.50:253][732]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.55:251][881]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.14.57:780][957]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.15.00:257][ 31]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.05:290][182]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.08:300][272]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.15.10:297][332]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.15:293][482]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.18:567][580]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.15.20:301][632]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.25:312][782]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.29:084][895]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.15.30:323][932]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.35:337][ 82]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.39:355][202]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.15.40:330][231]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.45:359][382]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.49:875][517]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.15.50:346][531]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.15.55:364][681]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.00:380][831]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.00:381][831]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.16.05:382][981]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.10:381][131]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.10:648][139]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.16.15:151][274]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.20:159][424]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.20:928][447]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.16.25:152][574]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.30:176][724]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.31:444][762]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.16.35:172][874]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.40:172][ 24]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.41:941][ 78]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.16.45:179][174]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.50:205][325]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.16.52:476][393]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.16.55:211][475]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.00:209][625]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.02:974][708]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.17.05:213][775]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.10:225][925]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.13:499][ 23]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.17.15:240][ 75]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.20:243][225]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.24:014][338]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.17.25:255][375]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.30:253][525]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.34:292][646]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.17.35:259][675]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.40:269][819]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.44:801][953]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.17.45:276][967]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.50:283][117]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.55:293][267]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.17.55:327][268]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.18.00:306][417]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.05:329][567]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.05:830][582]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.18.10:327][717]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.15:332][867]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.16:340][897]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.18.20:348][ 17]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.25:352][167]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.26:857][212]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.18.30:364][317]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.35:378][467]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.37:144][520]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.18.40:387][612]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.45:373][761]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.47:638][829]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.18.50:380][911]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.55:399][ 61]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.18.58:167][144]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.19.00:148][203]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.05:181][354]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.08:433][451]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.19.10:169][503]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.15:177][653]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.18:943][766]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.19.20:185][804]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.25:212][954]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.29:459][ 82]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.19.30:217][104]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.35:208][253]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.39:733][384]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.19.40:233][399]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.45:244][549]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.50:244][699]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.19.50:250][699]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.19.55:256][849]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.00:268][999]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.00:769][ 14]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.20.05:261][148]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.10:272][298]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.11:280][328]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.20.15:283][448]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.20:290][599]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.21:817][644]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.20.25:296][748]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.30:311][898]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.32:317][958]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.20.35:326][ 48]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.40:322][192]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.42:835][267]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.20.45:331][342]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.50:339][492]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.20.53:106][575]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.20.55:347][642]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.00:363][791]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.03:375][881]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.21.05:366][941]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.10:396][ 91]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.13:898][196]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.21.15:398][241]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.20:404][391]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.24:413][511]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.21.25:409][541]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.30:167][681]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.34:920][824]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.21.35:171][831]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.40:184][976]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.45:182][126]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.45:435][133]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.21.50:188][276]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.55:193][425]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.21.55:697][441]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.22.00:200][575]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.05:210][726]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.06:232][756]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.22.10:238][876]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.15:238][ 26]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.16:741][ 71]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.22.20:240][176]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.25:254][326]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.27:260][386]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.22.30:261][476]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.35:265][626]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.37:769][701]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.22.40:279][771]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.45:282][921]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.48:286][ 11]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.22.50:290][ 71]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.55:301][221]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.22.58:802][326]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.23.00:305][371]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.05:311][521]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.09:313][641]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.23.10:318][671]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.15:348][822]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.19:585][949]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.23.20:356][972]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.25:360][122]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.29:862][257]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.23.30:363][272]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.35:368][422]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.40:365][567]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.23.40:369][567]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.45:376][717]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.50:400][868]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.23.50:878][883]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.23.55:389][ 17]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.00:413][168]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.01:408][198]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.24.05:412][318]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.10:161][460]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.11:908][513]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.24.15:167][610]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.20:192][761]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.22:422][828]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.24.25:190][911]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.30:202][ 61]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.32:935][143]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.24.35:195][211]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.40:201][354]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.43:465][452]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.24.45:207][504]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.50:216][654]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.24.53:984][767]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.24.55:224][804]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.00:255][955]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.04:482][ 82]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.25.05:248][105]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.10:252][255]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.14:775][391]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.25.15:272][406]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.20:275][556]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.25:274][706]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.25.25:275][706]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.30:280][856]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.35:286][  6]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.35:783][ 21]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.25.40:294][152]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.45:301][302]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.46:298][331]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.25.50:319][452]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.55:324][602]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.25.56:826][647]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.26.00:326][752]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.05:332][902]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.07:331][962]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.26.10:340][ 52]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.15:358][203]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.17:598][270]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.26.20:364][353]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.25:375][503]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.28:117][586]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.26.30:375][653]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.35:407][804]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.38:384][893]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.26.40:405][949]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.45:411][ 99]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.48:667][197]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.26.50:408][249]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.55:415][399]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.26.59:179][512]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.27.00:176][542]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.05:181][692]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.09:679][827]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.27.10:209][843]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.15:202][993]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.19:962][136]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.27.20:208][144]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.25:227][294]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.30:225][444]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.30:466][452]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.27.35:250][595]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.40:263][738]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.40:733][753]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.27.45:270][888]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.50:270][ 38]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.27.51:247][ 68]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.27.55:287][188]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.00:281][338]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.01:514][375]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.28.05:281][488]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.10:291][638]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.11:784][683]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.28.15:314][789]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.20:318][939]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.22:297][998]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.28.25:331][ 89]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.30:332][239]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.32:832][314]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.28.35:338][389]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.40:349][532]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.43:327][621]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.28.45:354][682]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.50:353][832]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.28.53:592][929]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.28.55:356][982]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.00:367][132]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.03:868][237]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.29.05:372][282]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.10:402][433]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.14:373][552]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.29.15:405][583]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.20:400][733]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.24:906][868]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.29.25:409][883]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.30:413][ 33]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.35:417][183]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.29.35:423][183]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.40:451][329]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.45:190][471]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.45:688][486]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.29.50:224][622]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.55:228][772]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.29.56:196][801]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.30.00:225][922]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.05:232][ 72]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.06:466][109]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.30.10:231][222]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.15:236][372]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.16:733][417]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.30.20:243][522]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.25:251][672]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.27:249][732]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.30.30:282][823]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.35:281][973]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.37:511][ 40]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.30.40:284][118]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.45:302][269]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.48:039][351]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.30.50:305][419]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.55:323][569]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.30.58:558][666]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.31.00:321][719]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.05:330][869]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.09:060][981]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.31.10:325][ 19]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.15:332][169]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.19:593][297]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.31.20:356][320]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.25:361][470]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.30:097][612]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.31.30:362][620]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.35:361][770]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.40:385][916]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.40:618][923]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.31.45:376][ 66]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.50:405][216]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.31.51:137][238]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.31.55:392][366]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.00:416][516]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.01:654][553]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.32.05:414][666]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.10:416][816]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.12:152][868]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.32.15:424][966]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.20:432][117]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.22:418][176]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.32.25:458][267]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.30:198][409]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.32:703][484]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.32.35:203][559]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.40:234][705]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.43:204][794]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.32.45:219][854]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.50:245][  5]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.32.53:722][109]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.32.55:236][155]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.00:252][305]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.04:234][424]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.33.05:256][455]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.10:260][605]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.14:495][732]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.33.15:265][755]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.20:294][906]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.25:012][ 48]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.33.25:301][ 56]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.30:303][206]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.35:278][355]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.33.35:303][356]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.40:317][501]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.45:319][651]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.45:794][665]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.33.50:329][801]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.55:339][951]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.33.56:310][980]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.34.00:341][101]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.05:349][251]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.06:578][288]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.34.10:356][402]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.15:375][552]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.17:105][604]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.34.20:380][702]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.25:386][852]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.27:626][919]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.34.30:394][  2]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.35:403][152]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.38:123][233]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.34.40:403][295]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.45:417][445]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.48:654][542]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.34.50:426][595]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.55:434][745]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.34.59:166][857]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.35.00:437][895]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.05:440][ 45]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.09:674][172]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.35.10:447][195]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.15:474][346]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.20:184][487]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.35.20:211][488]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.25:219][638]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.30:228][788]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.30:462][795]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.35.35:237][938]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.40:243][ 83]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.40:977][105]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.35.45:249][233]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.50:260][383]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.35.51:490][420]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.35.55:269][533]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.00:294][684]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.01:999][735]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.36.05:298][834]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.10:301][984]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.12:517][ 51]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.36.15:309][134]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.20:310][284]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.23:038][366]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.36.25:318][435]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.30:345][585]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.33:553][681]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.36.35:334][735]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.40:343][879]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.44:080][991]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.36.45:352][ 29]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.50:356][179]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.36.54:590][306]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.36.55:390][330]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.00:399][480]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.04:865][614]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.37.05:400][630]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.10:403][780]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.15:369][929]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.37.15:404][930]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.20:425][ 81]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.25:421][231]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.25:657][238]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.37.30:428][381]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.35:451][532]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.36:151][553]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.37.40:467][677]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.45:477][827]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.46:423][856]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.37.50:475][977]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.55:218][119]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.37.56:952][171]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.38.00:227][269]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.05:239][419]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.07:452][485]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.38.10:244][569]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.15:267][720]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.17:971][801]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.38.20:271][870]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.25:270][ 20]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.28:237][109]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.38.30:278][170]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.35:285][320]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.38:789][420]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.38.40:304][465]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.45:309][615]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.49:273][734]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.38.50:308][765]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.55:312][915]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.38.59:780][ 49]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.39.00:320][ 66]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.05:330][215]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.10:300][364]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.39.10:335][365]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.15:358][516]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.20:358][666]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.20:828][680]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.39.25:362][816]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.30:368][966]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.31:331][995]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.39.35:378][117]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.40:384][262]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.41:608][298]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.39.45:401][412]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.50:406][562]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.39.52:115][613]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.39.55:410][712]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.00:422][863]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.02:381][922]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.40.05:437][ 13]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.10:442][163]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.12:648][230]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.40.15:443][313]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.20:453][463]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.22:913][537]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.40.25:477][614]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.30:476][764]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.33:186][845]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.40.35:486][914]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.40:233][ 51]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.43:697][155]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.40.45:240][202]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.50:266][352]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.40.53:973][463]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.40.55:274][502]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.00:270][652]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.04:482][778]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.41.05:280][802]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.10:283][952]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.15:013][ 94]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.41.15:314][103]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.20:315][253]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.25:326][403]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.25:524][409]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.41.30:322][553]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.35:323][703]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.36:035][724]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.41.40:331][848]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.45:357][999]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.46:557][ 35]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.41.50:357][149]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.55:366][299]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.41.57:062][350]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.42.00:362][449]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.05:384][600]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.07:351][659]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.42.10:381][750]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.15:414][901]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.17:848][974]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.42.20:414][ 51]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.25:410][201]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.28:114][282]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.42.30:419][351]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.35:427][501]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.38:384][590]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.42.40:448][647]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.45:447][797]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.48:652][893]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.42.50:457][947]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.55:465][ 97]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.42.59:163][208]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.43.00:473][247]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.05:472][397]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.09:683][523]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.43.10:483][547]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.15:252][690]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.20:194][839]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.43.20:252][840]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.25:259][990]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.30:264][140]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.30:726][154]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.43.35:272][290]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.40:279][435]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.41:244][464]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.43.45:294][586]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.50:319][736]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.43.51:750][779]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.43.55:324][886]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.00:322][ 36]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.02:260][ 94]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.44.05:323][186]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.10:326][336]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.12:787][410]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.44.15:334][487]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.20:355][637]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.23:292][725]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.44.25:359][787]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.30:355][937]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.33:558][ 33]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.44.35:380][ 88]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.40:391][233]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.44:095][344]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.44.45:394][383]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.50:397][533]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.44.54:601][659]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.44.55:404][683]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.00:408][833]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.05:117][974]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.45.05:418][983]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.10:431][133]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.15:440][283]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.15:640][289]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.45.20:437][433]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.25:444][583]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.26:143][604]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.45.30:475][734]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.35:464][884]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.36:663][920]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.45.40:467][ 29]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.45:474][179]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.47:174][231]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.45.50:500][330]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.55:507][480]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.45.57:443][538]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.46.00:508][630]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.05:276][773]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.07:977][854]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.46.10:275][923]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.15:275][ 73]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.18:483][169]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.46.20:281][223]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.25:293][373]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.28:989][484]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.46.30:293][523]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.35:299][674]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.39:517][795]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.46.40:317][819]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.45:325][969]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.50:033][110]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.46.50:335][119]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.46.55:345][269]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.00:341][419]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.00:537][425]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.47.05:364][570]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.10:365][720]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.11:070][741]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.47.15:375][870]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.20:387][ 20]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.21:588][ 56]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.47.25:389][170]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.30:390][320]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.32:089][371]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.47.35:399][471]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.40:405][613]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.42:353][672]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.47.45:413][763]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.50:423][914]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.47.52:620][979]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.47.55:431][ 64]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.00:454][214]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.03:158][295]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.48.05:460][364]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.10:464][514]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.13:663][610]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.48.15:462][664]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.20:473][814]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.24:170][925]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.48.25:477][964]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.30:484][114]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.34:450][233]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.48.35:493][264]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.40:514][410]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.44:962][543]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.48.45:528][560]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.50:268][702]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.55:277][852]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.48.55:473][858]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.49.00:284][  3]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.05:309][153]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.05:985][173]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.49.10:321][303]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.15:307][452]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.16:502][488]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.49.20:340][603]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.25:339][753]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.26:775][796]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.49.30:350][903]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.35:362][ 53]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.37:300][111]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.49.40:350][198]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.45:382][348]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.47:800][421]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.49.50:386][498]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.55:400][648]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.49.58:067][728]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.50.00:408][798]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.05:398][947]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.08:357][ 36]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.50.10:426][ 98]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.15:427][248]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.18:863][351]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.50.20:431][398]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.25:443][548]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.29:378][666]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.50.30:444][698]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.35:450][848]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.39:643][969]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.50.40:479][994]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.45:484][144]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.50:178][285]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.50.50:479][294]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.50.55:491][444]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.00:493][594]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.00:677][599]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.51.05:508][744]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.10:509][894]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.10:945][907]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.51.15:516][ 44]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.20:285][187]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.21:459][222]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.51.25:281][336]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.30:292][486]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.31:726][529]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.51.35:299][635]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.40:306][780]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.42:009][831]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.51.45:313][930]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.50:322][ 81]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.51.52:512][146]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.51.55:349][231]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.00:345][381]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.02:784][454]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.52.05:347][531]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.10:356][681]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.13:291][769]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.52.15:364][831]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.20:373][981]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.23:575][ 77]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.52.25:384][131]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.30:398][281]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.34:075][391]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.52.35:414][431]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.40:413][574]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.44:342][691]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.52.45:421][723]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.50:428][873]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.52.54:870][  6]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.52.55:436][ 23]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.00:445][173]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.05:143][314]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.53.05:477][324]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.10:463][473]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.15:487][624]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.15:655][629]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.53.20:496][774]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.25:497][924]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.26:167][944]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.53.30:501][ 74]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.35:510][224]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.36:703][260]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.53.40:523][369]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.45:534][519]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.47:209][569]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.53.50:288][661]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.55:295][811]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.53.57:740][884]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.54.00:312][961]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.05:314][111]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.08:247][199]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.54.10:324][262]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.15:328][411]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.18:502][507]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.54.20:340][562]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.25:367][712]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.28:770][814]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.54.30:352][862]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.35:374][ 12]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.39:285][124]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.54.40:389][157]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.45:392][307]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.49:801][440]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.54.50:393][457]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.54.55:399][607]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.00:067][747]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.55.00:400][757]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.05:407][907]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.10:343][ 55]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.55.10:418][ 57]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.15:424][207]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.20:430][357]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.20:859][370]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.55.25:437][507]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.30:444][657]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.31:379][685]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.55.35:452][807]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.40:470][952]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.41:881][994]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.55.45:485][102]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.50:482][252]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.55.52:394][309]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.55.55:495][402]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.00:491][551]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.02:919][624]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.56.05:499][701]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.10:510][851]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.13:429][938]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.56.15:527][  1]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.20:527][151]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.23:699][245]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.56.25:535][300]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.30:291][442]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.33:961][552]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.56.35:298][592]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.40:307][742]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.44:228][859]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.56.45:324][892]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.50:322][ 41]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.56.54:504][161]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.56.55:344][186]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.00:342][334]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.05:008][474]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.57.05:345][484]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.10:351][635]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.15:284][782]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.57.15:358][784]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.20:387][935]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.25:377][ 85]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.25:797][ 97]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.57.30:381][234]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.35:390][385]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.36:311][412]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.57.40:405][535]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.45:415][685]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.46:585][720]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.57.50:430][835]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.55:433][980]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.57.57:100][ 30]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.58.00:432][130]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.05:439][280]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.07:603][345]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.58.10:438][430]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.15:445][580]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.18:110][660]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.58.20:451][730]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.25:458][880]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.28:630][975]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.58.30:466][ 30]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.35:471][180]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.39:138][290]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.58.40:496][331]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.45:500][481]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.49:666][606]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.58.50:499][631]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.58.55:503][776]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.00:172][916]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.59.00:511][926]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.05:537][ 77]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.10:536][227]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.10:702][232]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.59.15:540][377]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.20:547][527]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.21:215][547]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.59.25:320][670]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.30:319][820]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.31:723][862]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.59.35:329][970]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.40:341][120]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.42:004][170]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.59.45:337][270]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.50:344][420]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-16.59.52:507][480]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-16.59.55:367][566]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.00:362][716]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.02:770][788]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.00.05:370][866]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.10:382][ 16]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.13:045][ 96]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.00.15:383][166]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.20:411][317]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.23:300][404]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.00.25:399][466]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.30:407][617]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.33:812][718]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.00.35:428][767]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.40:428][917]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.44:077][ 26]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.00.45:437][ 67]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.50:441][217]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.00.54:342][328]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.00.55:440][361]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.00:450][511]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.04:608][635]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.01.05:463][661]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.10:467][811]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.14:874][943]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.01.15:472][961]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.20:475][111]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.25:143][251]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.01.25:482][261]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.30:493][412]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.35:496][562]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.35:654][566]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.01.40:521][712]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.45:514][862]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.46:181][882]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.01.50:521][ 13]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.55:530][158]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.01.56:696][193]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.02.00:535][308]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.05:543][458]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.07:205][508]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.02.10:552][608]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.15:561][759]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.17:486][816]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.02.20:318][901]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.25:329][ 51]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.27:998][131]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.02.30:336][201]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.35:343][351]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.38:507][446]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.02.40:353][501]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.45:361][652]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.49:016][761]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.02.50:381][802]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.55:377][947]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.02.59:532][ 71]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.03.00:397][ 97]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.05:403][247]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.09:803][379]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.03.10:402][397]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.15:416][547]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.20:322][694]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.03.20:421][697]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.25:427][847]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.30:427][997]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.30:828][  9]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.03.35:436][147]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.40:442][297]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.41:346][324]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.03.45:450][447]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.50:470][598]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.03.51:869][635]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.03.55:467][743]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.00:473][893]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.02:375][950]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.04.05:480][ 43]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.10:503][194]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.12:661][258]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.04.15:502][343]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.20:500][493]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.23:173][573]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.04.25:507][643]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.30:513][793]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.33:671][888]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.04.35:541][944]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.40:545][ 94]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.43:950][196]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.04.45:549][244]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.50:548][394]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.04.54:459][506]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.04.55:560][539]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.00:566][689]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.04:964][821]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.05.05:327][832]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.10:336][982]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.15:253][129]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.05.15:351][132]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.20:367][282]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.25:360][432]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.25:760][444]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.05.30:363][582]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.35:369][732]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.36:270][759]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.05.40:378][882]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.45:387][ 32]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.46:544][ 67]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.05.50:411][183]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.55:404][325]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.05.57:047][374]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.06.00:410][475]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.05:426][625]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.07:331][682]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.06.10:435][775]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.15:439][925]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.17:839][997]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.06.20:446][ 75]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.25:455][225]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.28:359][312]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.06.30:463][375]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.35:472][525]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.38:617][619]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.06.40:480][675]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.45:487][825]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.48:893][927]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.06.50:497][975]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.55:514][120]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.06.59:397][236]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.07.00:525][270]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.05:534][420]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.09:670][544]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.07.10:539][570]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.15:539][720]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.19:937][852]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.07.20:540][870]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.25:548][ 20]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.30:208][160]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.07.30:559][171]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.35:575][321]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.40:581][471]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.40:714][475]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.07.45:593][621]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.50:333][763]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.07.51:222][784]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.07.55:340][907]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.00:370][ 58]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.01:741][ 99]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.08.05:353][207]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.10:365][357]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.12:263][414]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.08.15:372][507]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.20:381][658]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.22:539][722]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.08.25:388][808]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.30:395][957]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.33:056][ 37]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.08.35:403][107]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.40:423][258]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.43:559][352]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.08.45:428][408]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.50:425][558]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.08.54:067][662]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.08.55:445][703]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.00:448][853]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.04:332][970]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.09.05:457][  3]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.10:459][153]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.14:603][277]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.09.15:472][303]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.20:473][453]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.24:880][585]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.09.25:478][603]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.30:485][753]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.35:381][900]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.09.35:493][903]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.40:502][ 53]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.45:529][204]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.45:661][208]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.09.50:525][354]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.55:535][497]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.09.56:171][516]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.10.00:533][647]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.05:544][797]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.06:674][831]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.10.10:550][947]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.15:557][ 97]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.17:190][146]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.10.20:566][247]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.25:573][398]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.27:460][454]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.10.30:589][548]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.35:357][691]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.37:986][770]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.10.40:353][841]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.45:368][991]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.48:259][ 78]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.10.50:371][142]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.55:377][286]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.10.58:770][388]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.11.00:381][436]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.05:396][586]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.09:286][703]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.11.10:398][736]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.15:412][886]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.19:814][ 18]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.11.20:422][ 36]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.25:427][186]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.30:326][333]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.11.30:431][336]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.35:438][486]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.40:463][637]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.40:833][648]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.11.45:472][787]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.50:475][937]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.11.51:108][951]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.11.55:471][ 81]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.00:486][231]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.01:376][258]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.12.05:485][381]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.10:498][531]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.11:898][573]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.12.15:509][681]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.20:525][831]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.22:397][887]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.12.25:532][981]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.30:540][131]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.32:677][195]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.12.35:547][281]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.40:537][430]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.43:188][510]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.12.45:559][581]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.50:557][731]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.12.53:692][820]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.12.55:560][876]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.00:573][ 26]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.03:972][128]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.13.05:579][176]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.10:579][326]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.14:492][443]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.13.15:594][476]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.20:598][626]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.24:991][758]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.13.25:360][769]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.30:362][919]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.35:260][ 66]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.13.35:387][ 70]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.40:403][220]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.45:404][370]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.45:537][374]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.13.50:397][520]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.55:426][665]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.13.56:055][684]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.14.00:423][815]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.05:426][965]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.06:559][999]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.14.10:437][115]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.15:446][265]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.16:842][307]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.14.20:444][415]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.25:455][565]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.27:337][621]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.14.30:463][715]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.35:468][865]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.37:604][929]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.14.40:490][ 15]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.45:493][165]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.47:867][236]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.14.50:488][315]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.55:499][460]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.14.58:402][547]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.15.00:499][610]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.05:504][760]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.08:899][862]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.15.10:510][910]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.15:534][ 61]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.19:179][170]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.15.20:526][211]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.25:548][361]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.29:690][485]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.15.30:557][511]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.35:556][661]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.40:198][800]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.15.40:563][811]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.45:567][961]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.50:488][108]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.15.50:587][111]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.15.55:583][256]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.00:610][406]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.00:987][417]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.16.05:599][555]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.10:626][706]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.11:260][725]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.16.15:364][848]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.20:372][998]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.21:770][ 40]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.16.25:401][149]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.30:407][299]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.32:038][348]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.16.35:404][449]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.40:407][599]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.42:554][664]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.16.45:413][749]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.50:440][900]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.16.52:820][964]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.16.55:429][ 42]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.00:435][192]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.03:344][279]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.17.05:443][342]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.10:451][492]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.13:856][594]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.17.15:461][642]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.20:469][792]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.24:369][909]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.17.25:480][942]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.30:492][ 92]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.34:893][224]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.17.35:494][242]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.40:505][392]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.45:407][539]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.17.45:506][542]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.50:510][692]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.55:525][837]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.17.55:925][849]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.18.00:534][987]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.05:532][137]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.06:430][164]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.18.10:537][287]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.15:547][437]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.16:939][479]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.18.20:573][588]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.25:564][737]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.27:453][794]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.18.30:574][888]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.35:588][ 38]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.37:719][102]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.18.40:584][188]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.45:612][339]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.47:989][410]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.18.50:598][488]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.55:607][634]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.18.58:501][720]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.19.00:609][784]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.05:615][933]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.09:024][ 35]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.19.10:622][ 83]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.15:391][226]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.19:532][350]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.19.20:400][376]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.25:401][526]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.30:039][665]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.19.30:407][676]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.35:423][826]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.40:322][973]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.19.40:421][976]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.45:427][126]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.50:436][277]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.19.50:825][288]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.19.55:463][422]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.00:467][572]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.01:346][598]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.20.05:462][722]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.10:478][872]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.11:853][913]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.20.15:489][ 22]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.20:487][172]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.22:371][228]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.20.25:500][322]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.30:514][472]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.32:651][536]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.20.35:519][622]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.40:528][772]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.43:158][851]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.20.45:518][922]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.50:548][ 73]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.20.53:678][162]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.20.55:538][218]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.00:542][368]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.04:187][477]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.21.05:550][518]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.10:567][668]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.14:707][792]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.21.15:574][818]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.20:591][968]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.25:232][107]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.21.25:582][118]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.30:593][268]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.35:595][418]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.35:732][422]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.21.40:601][569]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.45:608][719]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.46:001][730]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.21.50:637][869]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.55:635][ 13]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.21.56:269][ 32]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.22.00:638][163]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.05:404][306]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.06:783][348]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.22.10:407][456]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.15:411][606]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.17:048][655]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.22.20:418][756]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.25:441][907]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.27:314][963]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.22.30:435][ 57]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.35:437][207]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.37:834][279]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.22.40:444][357]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.45:466][508]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.48:366][595]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.22.50:467][658]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.55:470][804]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.22.58:864][905]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.23.00:491][954]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.05:492][104]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.09:388][221]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.23.10:490][254]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.15:518][405]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.19:917][537]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.23.20:522][555]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.25:537][705]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.30:409][851]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.23.30:534][855]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.35:541][  5]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.40:537][155]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.40:694][159]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.23.45:552][305]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.50:554][455]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.23.51:321][473]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.23.55:567][600]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.00:567][750]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.01:706][784]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.24.05:601][901]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.10:582][ 50]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.12:220][100]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.24.15:584][201]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.20:593][350]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.22:755][415]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.24.25:619][501]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.30:611][651]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.33:249][730]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.24.35:621][801]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.40:629][951]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.43:526][ 38]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.24.45:631][101]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.50:639][251]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.24.54:048][346]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.24.55:414][387]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.00:423][537]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.04:544][661]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.25.05:409][686]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.10:432][837]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.14:807][968]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.25.15:434][987]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.20:442][137]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.25:076][276]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.25.25:439][287]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.30:446][438]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.35:455][587]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.35:611][592]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.25.40:464][737]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.45:474][888]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.46:130][907]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.25.50:496][ 38]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.55:482][180]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.25.56:618][215]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.26.00:507][331]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.05:515][481]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.07:147][530]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.26.10:522][631]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.15:526][781]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.17:664][845]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.26.20:532][931]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.25:541][ 81]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.28:184][160]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.26.30:560][231]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.35:547][380]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.38:704][475]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.26.40:577][531]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.45:581][681]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.49:202][789]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.26.50:595][831]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.55:594][976]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.26.59:723][100]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.27.00:589][126]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.05:598][276]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.10:233][415]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.27.10:604][426]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.15:614][577]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.20:501][723]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.27.20:634][727]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.25:642][877]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.30:634][ 27]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.31:020][ 38]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.27.35:639][176]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.40:655][326]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.41:529][352]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.27.45:406][468]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.50:412][618]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.27.51:795][654]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.27.55:423][763]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.00:431][913]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.02:063][962]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.28.05:432][ 63]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.10:439][213]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.12:569][277]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.28.15:450][363]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.20:469][514]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.22:838][585]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.28.25:473][664]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.30:473][814]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.33:354][901]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.28.35:482][964]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.40:493][114]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.43:618][208]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.28.45:508][264]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.50:508][414]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.28.54:149][516]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.28.55:516][557]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.00:521][707]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.04:653][831]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.29.05:521][857]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.10:526][  7]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.15:161][147]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.29.15:555][158]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.20:561][308]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.25:568][458]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.25:676][461]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.29.30:576][608]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.35:576][758]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.36:190][777]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.29.40:588][908]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.45:594][ 58]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.46:707][ 91]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.29.50:602][208]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.55:599][353]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.29.57:225][401]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.30.00:624][503]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.05:614][652]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.07:744][716]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.30.10:617][803]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.15:624][953]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.18:257][ 31]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.30.20:631][102]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.25:641][252]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.28:767][346]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.30.30:667][403]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.35:672][553]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.39:282][661]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.30.40:681][703]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.45:419][845]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.49:796][976]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.30.50:427][995]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.30.55:444][140]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.00:081][279]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.31.00:447][290]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.05:461][440]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.10:462][590]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.10:595][594]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.31.15:471][740]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.20:476][890]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.21:113][909]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.31.25:491][ 40]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.30:496][190]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.31:628][224]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.31.35:496][340]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.40:532][491]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.42:135][539]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.31.45:529][641]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.50:530][791]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.31.52:400][842]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.31.55:530][936]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.00:540][ 86]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.02:668][150]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.32.05:565][237]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.10:570][387]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.12:936][458]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.32.15:573][537]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.20:576][687]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.23:214][766]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.32.25:592][837]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.30:596][987]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.33:737][ 81]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.32.35:608][137]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.40:619][287]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.44:232][395]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.32.45:626][437]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.50:626][587]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.32.54:765][706]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.32.55:631][732]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.00:640][882]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.05:273][ 21]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.33.05:647][ 32]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.10:656][182]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.15:669][332]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.15:802][336]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.33.20:676][482]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.25:682][632]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.26:298][651]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.33.30:433][774]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.35:440][924]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.36:574][958]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.33.40:450][ 74]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.45:458][224]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.47:084][273]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.33.50:488][375]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.55:485][520]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.33.57:598][583]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.34.00:495][670]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.05:493][820]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.07:868][891]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.34.10:521][971]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.15:522][121]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.18:385][207]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.34.20:522][271]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.25:533][421]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.28:902][522]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.34.30:540][571]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.35:533][721]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.39:405][837]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.34.40:539][871]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.45:546][ 21]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.49:937][153]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.34.50:573][172]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.34.55:584][315]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.00:437][460]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.35.00:574][465]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.05:585][614]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.10:590][764]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.10:956][775]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.35.15:597][914]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.20:605][ 65]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.21:467][ 90]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.35.25:628][215]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.30:621][365]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.31:754][399]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.35.35:629][515]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.40:638][665]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.42:251][713]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.35.45:647][815]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.50:660][965]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.35.52:768][ 22]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.35.55:664][109]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.00:673][259]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.03:041][330]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.36.05:681][409]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.10:702][560]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.13:304][638]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.36.15:443][702]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.20:451][852]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.23:575][946]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.36.25:477][  3]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.30:469][153]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.34:084][261]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.36.35:483][303]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.40:495][453]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.44:364][569]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.36.45:503][603]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.50:510][753]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.36.54:862][877]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.36.55:513][897]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.00:521][ 47]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.05:393][193]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.37.05:528][197]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.10:526][347]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.15:553][498]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.15:891][508]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.37.20:554][648]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.25:560][798]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.26:160][816]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.37.30:568][948]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.35:566][ 98]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.36:671][131]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.37.40:577][249]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.45:582][398]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.47:188][446]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.37.50:590][548]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.55:600][693]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.37.57:475][749]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.38.00:604][843]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.05:611][993]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.07:982][ 64]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.38.10:625][143]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.15:634][293]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.18:480][378]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.38.20:644][443]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.25:653][593]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.29:001][694]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.38.30:657][743]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.35:655][893]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.39:526][  9]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.38.40:660][ 43]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.45:671][193]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.50:029][324]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.38.50:695][344]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.38.55:699][488]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.00:545][633]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.39.00:704][638]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.05:450][780]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.10:456][930]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.11:059][948]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.39.15:465][ 80]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.20:487][231]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.21:588][264]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.39.25:492][381]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.30:490][531]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.32:093][579]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.39.35:495][681]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.40:504][832]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.42:608][894]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.39.45:508][981]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.50:517][131]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.39.52:874][202]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.39.55:545][282]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.00:534][431]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.03:408][517]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.40.05:549][581]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.10:567][731]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.13:907][831]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.40.15:571][881]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.20:576][ 31]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.24:424][146]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.40.25:598][181]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.30:584][330]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.34:960][461]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.40.35:596][480]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.40:605][630]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.45:455][775]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.40.45:622][780]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.50:612][929]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.55:633][ 79]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.40.55:973][ 89]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.41.00:650][229]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.05:641][379]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.06:239][396]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.41.10:646][528]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.15:655][678]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.16:521][704]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.41.20:663][828]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.25:676][978]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.27:042][ 19]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.41.30:678][128]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.35:686][278]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.37:537][333]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.41.40:712][428]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.45:700][577]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.48:056][648]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.41.50:459][720]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.55:471][870]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.41.58:575][963]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.42.00:479][ 20]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.05:489][171]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.08:859][271]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.42.10:502][320]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.15:523][470]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.19:372][585]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.42.20:512][619]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.25:525][769]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.29:875][899]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.42.30:537][919]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.35:554][ 69]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.40:163][207]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.42.40:550][218]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.45:557][369]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.50:570][519]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.42.50:668][522]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.42.55:584][669]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.43.00:600][819]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.43.01:201][837]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.43.05:593][968]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.43.10:603][118]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.43.11:707][151]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.43.15:625][268]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.43.20:615][417]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.43.22:216][465]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.43.25:623][567]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.43.30:631][717]IP PeerAddr: 167.114.219.233:53184 used rcon command: listplayers
+[2018.06.29-17.43.32:730][780]IP PeerAddr: 188.165.254.41:64881 used rcon command: listplayers
+[2018.06.29-17.43.43:740][831]Log file closed, 06/29/18 18:43:43

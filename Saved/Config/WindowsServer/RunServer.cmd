@@ -1,0 +1,1 @@
+start "GN PVP" /high "C:\ConanGN\Servers\server1\ConanSandbox\Binaries\Win64\ConanSandboxServer-Win64-Test.exe" ConanSandbox -MultiHome=188.165.254.41 -Port=7777 -QueryPort=27015 -listen -nosteamclient -game -server -log
